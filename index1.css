@@ -1,0 +1,17 @@
+body{
+	display:inline-block;
+}
+header{
+	font-size:40px;
+}
+button{
+	color:#000000;
+	width:100px;
+}
+a{
+	color:black;
+	text-decoration:none;
+}
+a:hover{
+	color:black;
+}

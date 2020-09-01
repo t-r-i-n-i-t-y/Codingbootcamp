@@ -1,0 +1,21 @@
+body{
+	background-size:2000px 950px;
+	font-family:Georgia;
+}
+fieldset{
+	width:1050px;
+}
+button{
+	color:#000000;
+	width:100px;
+}
+a{
+	color:black;
+	text-decoration:none;
+}
+a:hover{
+	color:black;
+}
+center{
+	word-spacing:20px;
+}
